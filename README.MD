@@ -10,4 +10,6 @@ Features:
 6. Add description
 7. Add\edit create date & time
 
-Bulded with Gulp4
+Builded with Gulp4
+
+write "gulp default" or "gulp" to build the project!
